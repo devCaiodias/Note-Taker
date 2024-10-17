@@ -6,7 +6,7 @@ Veja o aki >>> <a href="https://note-taker-drab.vercel.app/">NOTE TAKER</a>
 
 Um site de blocos de notas para  anotar sua rotina ou coisa do trabalho, e vc pode ver os detalhies  da sua nota
 
-##TECNOLOGIA
+## TECNOLOGIA
 
 ### HTML
 ### CSS
