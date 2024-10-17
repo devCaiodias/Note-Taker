@@ -1,0 +1,14 @@
+.div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px;
+    border-radius: 50px;
+    border: 2px white solid;
+    text-align: center;
+}

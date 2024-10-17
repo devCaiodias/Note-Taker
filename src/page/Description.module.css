@@ -1,0 +1,38 @@
+
+
+
+.hDescription{
+    color: rgb(163, 90, 236);
+    text-align: center;
+    margin: 20px;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.divDescription{
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 15%;
+}
+
+.divDescription h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2em;
+    
+}
+
+.divDescription h3 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2em;
+}
+
+.back{
+    padding: 10px 20px;
+    border: 2px solid rgb(163, 90, 236);
+    margin-left: 47%;
+    margin-top: 100px;
+    font-size: 1.5em;
+    cursor: pointer;
+}
