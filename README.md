@@ -2,7 +2,7 @@
 
 Veja o aki >>> <a href="https://note-taker-drab.vercel.app/">NOTE TAKER</a> 
 
-<img src="https://i.pinimg.com/originals/b9/35/bd/b935bdac224ed352febf859cad7a1f14.jpg" height="400px"  />
+<img src="https://i.pinimg.com/736x/4e/60/a3/4e60a3d83d1cc654400476f56c3d6b7a.jpg" height="400px"  />
 
 
 # React + Vite
